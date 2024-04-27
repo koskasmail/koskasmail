@@ -8,25 +8,27 @@
 
 <br/>
 
-# koskasmail (4 / 5)
+# koskasmail
 
 <br/>
 
 ## **welcome**
   ```sh
-    Hey you.
-       This repository is a path to the stuff i created .
-            Enjoy !
-
+    Hey,
+       This is my thoughts.
     Jaron.
   ```
 
 <br/>
 
-## koskasmail:
- - [x] koskasmail 4
- - [x] koskasmail 5
- 
+## Recently:
+ 1. [My_Web_Pages](https://github.com/koskasmail/web/blob/main/web/pages/links.md)
+ 2. ...
+
+ ## My favorite
+ 1. [My_Web_Pages](https://github.com/koskasmail/web/blob/main/web/pages/links.md)
+ 2. ...
+
 ----
 
 <p align="right">(<a href="#topage">back to top</a>)</p>
@@ -50,8 +52,8 @@
 [linkedin-url]: https://linkedin.com/in/yaron-kessler-703606163/
 
 
-# ![Text Mask](https://koskasmail.github.io/assets/images/picture/yamon.jpg)
-# koskasmail 4 & 5 Examples
+<!-- # ![Text Mask](https://koskasmail.github.io/assets/images/picture/yamon.jpg) -->
+
 
 
 
