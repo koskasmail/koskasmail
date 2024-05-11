@@ -1,3 +1,5 @@
+ <img alt="koskasmail logo." src="https://koskasmail.github.io/assets/icons/logo/neon/koskasmail/006.png">
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
