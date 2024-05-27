@@ -35,6 +35,8 @@
 
 <p align="right">(<a href="#topage">back to top</a>)</p>
 
+ <img alt="koskasmail logo." src="https://koskasmail.github.io/me/me/logo/koskasmail_neon.png">
+
 [contributors-shield]: https://img.shields.io/github/contributors/koskasmail/koskasmail.svg?style=for-the-badge
 [contributors-url]: https://github.com/koskasmail/koskasmail/graphs/contributors
 
