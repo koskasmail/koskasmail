@@ -1,4 +1,4 @@
- <img alt="koskasmail logo." src="https://koskasmail.github.io/me/me/logo/koskasmail_neon.png">
+ <img alt="koskasmail_neon.png" src="https://koskasmail.github.io/me/me/logo/koskasmail_neon.png">
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
